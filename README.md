@@ -1,4 +1,4 @@
-# Answering-Business-Questions-using-SQL-and-Python
+# Guided-Project-Answering-Business-Questions-using-SQL-and-Python
 Practice using SQL and Python to answer business questions
 
 The Chinook database (https://github.com/lerocha/chinook-database
